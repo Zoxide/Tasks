@@ -1,0 +1,2 @@
+Task{name='Task Program - Search', description='Develop the search functionality to the tasks program', status='pending', dueDate='10-10-2024', category='Development'}
+Task{name='Test Code', description='I need to test all of the code for my Task project', status='In Progress', dueDate='10-10-2024', category='Testing'}

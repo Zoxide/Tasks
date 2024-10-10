@@ -4,6 +4,7 @@
 This is a Java-based task management application that allows users to register, log in, and manage their tasks. The application provides functionalities such as searching, deleting, and displaying tasks.
 
 ## Features
+- **Storage**: This program uses .txt files to store data as it is a simple project for college
 - **User Registration and Login**: Users can register and log in to the application.
 - **Task Management**: Users can search for tasks by name or category, delete tasks, and view task details.
 - **Input Validation**: Ensures that user inputs are valid and handles errors gracefully.
@@ -18,8 +19,8 @@ This is a Java-based task management application that allows users to register, 
 ## How to Run
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Zoxide/task-management-app.git
-    cd task-management-app
+    git clone https://github.com/Zoxide/Tasks.git
+    cd Tasks
     ```
 
 2. **Compile the project**:
